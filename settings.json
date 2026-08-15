@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Harsh-AamirPvtServer.aternos.me:61344",
+    "ip": "Harsh-AamirPvtServer.aternos.me",
     "port": 61344,
     "version": "",
     "try-creative": false
