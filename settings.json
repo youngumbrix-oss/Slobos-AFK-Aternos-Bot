@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Harsh-AamirPvtServer.aternos.me:61344",
+    "port": 61344,
     "version": "",
     "try-creative": false
   },
